@@ -1,0 +1,13 @@
+streamlit==1.38.0
+transformers==4.44.2
+torch==2.4.0
+datasets==2.21.0
+numpy==2.1.0
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.2
+seaborn==0.13.2
+base64==0.0.1  # Standard library, but included for completeness
+
+# Note: For GPU support, install torch with CUDA if needed: pip install torch==2.4.0+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+# Versions based on typical compatibility; adjust as per your environment.
